@@ -75,3 +75,7 @@ Toute autre valeur lève une `ValueError` affichée proprement dans la console.
 ## Auteur
 
 Diane — module 0, ex00, cursus 42 Paris.
+
+## Licence
+
+Ce projet est distribué sous licence MIT — voir le fichier [LICENSE](LICENSE).
