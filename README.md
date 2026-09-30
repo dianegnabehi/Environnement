@@ -74,7 +74,7 @@ Toute autre valeur lève une `ValueError` affichée proprement dans la console.
 
 ## Auteur
 
-Diane — module 0, ex00, cursus 42 Paris.
+Diane Gnabehi —  projet 42 Paris.
 
 ## Licence
 
