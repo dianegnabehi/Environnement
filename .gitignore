@@ -11,9 +11,6 @@ dist/
 
 # Environnements virtuels
 .venv/
-venv/
-env/
-ENV/
 
 # Outils de test et de qualité
 .pytest_cache/
@@ -29,23 +26,6 @@ htmlcov/
 .env
 .env.*
 *.local
-
-# Éditeurs et IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# Outils locaux
-.freebuff/
-
-# macOS
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
 
 # Logs
 *.log
