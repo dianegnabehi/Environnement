@@ -1,6 +1,6 @@
 # Environnement
 
-Simulation en Python des températures d'une journée complète pour chacune des quatre saisons. Le script combine une plage thermique saisonnière, une onde sinusoïdale et une part d'aléatoire pour produire un relevé toutes les 30 minutes, affiché en temps réel en degrés Celsius. Projet du module 0 (ex00), piste IA & Machine Learning, cursus 42 Paris.
+Simulation en Python des températures d'une journée complète pour chacune des quatre saisons. Le script combine une plage thermique saisonnière, une onde sinusoïdale et une part d'aléatoire pour produire un relevé toutes les 30 minutes, affiché en temps réel en degrés Celsius. Projet IA & Machine Learning, 42 Paris.
 
 ## Aperçu
 
