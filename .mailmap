@@ -1,13 +1,3 @@
 # Unifie les identités Git de Diane GNABEHI sur ce dépôt.
 #
-# Le commit initial a été créé depuis l'interface GitHub avec l'adresse
-# gdiane@duck.com, alors que les commits suivants utilisent l'adresse
-# configurée localement (dgnabehi@student.42.fr). Les deux lignes ci-dessous
-# ramènent ces commits à une seule identité : `git shortlog` et `git log`
-# n'affichent plus qu'un seul contributeur.
-#
-# Remarque : GitHub n'applique pas .mailmap pour sa liste de contributeurs.
-# Pour y fusionner les deux entrées, ajoute gdiane@duck.com comme adresse
-# e-mail vérifiée dans les paramètres de ton compte GitHub.
-Diane GNABEHI <dgnabehi@student.42.fr> <gdiane@duck.com>
-Diane GNABEHI <dgnabehi@student.42.fr>
+
